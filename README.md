@@ -8,8 +8,7 @@
 <body>
     <div>
         <p>This website is built using source code from <a href="https://github.com/crearo/portfolio">crearo's portfolio</a>.</p>
-        <p>Credits to crearo for providing the original source code.</p>
-        
+        <p>Credits to crearo for providing the original source code.</p>        
     </div>
 # Technology
 
